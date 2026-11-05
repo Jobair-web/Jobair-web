@@ -48,11 +48,24 @@ I am a CSE graduate and Full Stack Web Developer passionate about engineering mo
 
 ---
 
-### 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jobair-web&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobair-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Jobair-web">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Jobair-web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Jobair-web">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobair-web&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 ---
